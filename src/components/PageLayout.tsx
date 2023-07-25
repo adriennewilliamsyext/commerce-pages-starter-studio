@@ -34,7 +34,7 @@ const PageLayout = ({
       <div className="min-h-screen" style={{ backgroundColor }}>
         <HeaderSimple backgroundColor="#d8b4fe" logo={logo} />
         <main>{children}</main>
-        <Footer logo={logo} />
+        <Footer logo={logo} style="mt-2 bg-gray-50" />
       </div>
     </AnalyticsProvider>
   );

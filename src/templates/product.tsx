@@ -79,7 +79,11 @@ export default function Product({ __meta, document }: TemplateProps) {
                 src={`${document.photoGallery[0].image.url}`}
                 alt=""
               />
-              <BigButton title="Add to Cart" href="#" style="bg-purple-600" />
+              <BigButton
+                title="Add to Cart"
+                href="#"
+                style="bg-purple-600 hover:bg-purple-300"
+              />
             </GridContainer>
           </CenteredContainer>
         </PageLayout>

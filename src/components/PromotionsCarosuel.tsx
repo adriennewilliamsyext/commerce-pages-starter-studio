@@ -1,8 +1,7 @@
 import * as React from "react";
 import { VERSION, STREAMS_API_KEY } from "../common/consts";
 import Item from "./ColItem";
-import OneItems from "./OneItemGrid";
-import ThreeItems from "./ThreeItemsGrid";
+import OneColGrid from "./OneColGrid";
 
 const PromotionsCarousel = () => {
   const [promotionsData, setpromotionsData] = React.useState([]);
@@ -25,7 +24,7 @@ const PromotionsCarousel = () => {
 
   return (
     <div>
-      <OneItems title="Promotions">
+      <OneColGrid title="Promotions">
         {promotionsData &&
           promotionsData.map((promotions) => {
             return (
@@ -36,7 +35,7 @@ const PromotionsCarousel = () => {
               />
             );
           })}
-      </OneItems>
+      </OneColGrid>
     </div>
   );
 };

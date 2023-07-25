@@ -6,7 +6,7 @@ import { VERSION, STREAMS_API_KEY } from "../common/consts";
 import Headline from "../components/Headline";
 import HorizontalStack from "../components/HorizontalStack";
 import Item from "../components/ColItem";
-import ItemsGrid from "../components/ThreeItemsGrid";
+import ThreeColGrid from "../components/ThreeColGrid";
 
 import CenteredContainer from "../components/CenteredContainer";
 import PageLayout from "../components/PageLayout";
@@ -62,18 +62,18 @@ export default function Product({ __meta, document }: TemplateProps) {
               alignment="center"
               verticalOnMobile="true"
             >
-              <ItemsGrid title="Shop by Category">
+              <ThreeColGrid title="Shop by Category">
                 {categoryData &&
                   categoryData.map((category) => {
                     return (
                       <Item
                         name={category.name}
                         image={category.primaryPhoto.image.url}
-                        description={category.shortDescriptionV2.markdown}
+                        description={category.shortDescription}
                       />
                     );
                   })}
-              </ItemsGrid>
+              </ThreeColGrid>
             </HorizontalStack>
           </CenteredContainer>
         </PageLayout>

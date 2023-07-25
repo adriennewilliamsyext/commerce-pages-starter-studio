@@ -1,6 +1,6 @@
 import * as React from "react";
 import Item from "./RowItem";
-import ThreeItems from "./ThreeItemsGrid";
+import ThreeColGrid from "./ThreeColGrid";
 import { VERSION, STREAMS_API_KEY } from "../common/consts";
 
 const CategoryCarousel = () => {
@@ -24,7 +24,7 @@ const CategoryCarousel = () => {
 
   return (
     <div>
-      <ThreeItems title="Shop Categories">
+      <ThreeColGrid title="Shop Categories">
         {categoryData &&
           categoryData.map((category) => {
             return (
@@ -35,7 +35,7 @@ const CategoryCarousel = () => {
               />
             );
           })}
-      </ThreeItems>
+      </ThreeColGrid>
     </div>
   );
 };

@@ -1,6 +1,7 @@
 export interface FooterProps {
   logo?: string;
   paragraph?: string;
+  style?: string;
 }
 
 const navigation = {
@@ -75,11 +76,11 @@ const navigation = {
 };
 
 const Footer = (props: FooterProps) => {
-  const { logo, paragraph } = props;
+  const { logo, paragraph, style } = props;
 
   return (
     <>
-      <footer className="bg-white" aria-labelledby="footer-heading">
+      <footer className={style} aria-labelledby="footer-heading">
         <h2 id="footer-heading" className="sr-only">
           Footer
         </h2>
