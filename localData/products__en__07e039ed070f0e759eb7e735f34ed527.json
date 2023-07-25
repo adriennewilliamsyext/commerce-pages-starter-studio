@@ -1,0 +1,48 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "products",
+		"templateType": "JS"
+	},
+	"businessId": 3220514,
+	"id": "roses-black-dozen",
+	"key": "0:product:knowledgeGraph:1003492454:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "product",
+			"uid": 30000
+		},
+		"locale": "en"
+	},
+	"name": "Rose Bouquet - Black 1 Dozen",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 600,
+				"url": "https://a.mktgcdn.com/p/F5d-f4GPO1VyIR6Tnx4054zscEkEm8FGgM6KS102yVY/600x600.jpg",
+				"width": 600
+			}
+		}
+	],
+	"price": {
+		"currencyCode": "USD",
+		"value": "35"
+	},
+	"primaryPhoto": {
+		"image": {
+			"height": 800,
+			"url": "https://a.mktgcdn.com/p/BE2lbLSrnG3zKrMIhXcemfbg4RLUfvac60YrFAAup-A/800x800.jpg",
+			"width": 800
+		}
+	},
+	"richTextDescription": "Introducing our alluring \"Midnight Enchantment\" bouquet, a bewitching arrangement of a dozen black roses that embodies mystery and intrigue. Each unique bloom has been meticulously cultivated to achieve the deepest shade of black, creating a stunning contrast against the lush greenery. The \"Midnight Enchantment\" bouquet is a symbol of elegance and sophistication, perfect for those seeking a distinctive and unconventional expression of emotion.\n\n\nCrafted with utmost care by our skilled florists, the \"Midnight Enchantment\" bouquet is a rare and exquisite gift that will captivate the senses. Each black rose carries an air of enigma, making it an ideal choice for special occasions or as a memorable gesture to surprise and delight a loved one. Embrace the allure of the unknown and let the \"Midnight Enchantment\" bouquet cast its spell on those who dare to venture into the realm of extraordinary beauty.\n\n\nUnveil the mysterious allure of the \"Midnight Enchantment\" bouquet and let it speak for you in a language known only to the heart. Whether it's for an anniversary, a gothic\\-themed event, or an expression of profound admiration, this bouquet promises to leave a lasting impression, invoking emotions that words alone cannot convey. Delight in the darkness and enchantment of these unique black roses and make a statement that defies convention with this extraordinary bouquet.",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "roses-black-dozen",
+	"uid": 1003492454
+}

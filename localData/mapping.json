@@ -1,5 +1,20 @@
 {
+	"category": [
+		"cog-internal-feature-static-file-generation-category__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"homepage": [
+		"cog-internal-feature-static-file-generation-homepage__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"local-store": [
+		"locations__en__5b4c283d22adfabe86c508397a9a355c.json",
+		"locations__en__e3a67b473fb993aff6d8a0766eb317d4.json",
+		"locations__en__ef6c04bec9ccebc20b22236391754506.json"
+	],
 	"product": [
-		"skis__en__408b6cfef8e6aafd9275e0cdc36f7c44.json"
+		"products__en__c607b8e3e2ff5cce7109f0a25e174fce.json",
+		"products__en__25cfd7917f05c81ccb4712b8e37e1c1a.json",
+		"products__en__4d867535f35034d4e1127a95134da3ce.json",
+		"products__en__07e039ed070f0e759eb7e735f34ed527.json",
+		"products__en__0ba3306748afe04b2ac8567b5fed4858.json"
 	]
 }

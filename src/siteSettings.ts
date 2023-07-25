@@ -8,8 +8,8 @@ export interface SiteSettings {
 }
 
 export default {
-  experienceKey: "slanswers",
+  experienceKey: "commerce-search-starter",
   GlobalColors: {
-    primary: "#AABBCC",
+    primary: "#9333ea",
   },
 };

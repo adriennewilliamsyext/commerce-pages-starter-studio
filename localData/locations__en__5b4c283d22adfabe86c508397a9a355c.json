@@ -1,0 +1,51 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "local-store",
+		"streamId": "locations",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "New York",
+		"countryCode": "US",
+		"line1": "110 E 18th St",
+		"line2": "Unit 2",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "New York",
+		"postalCode": "10003",
+		"region": "NY"
+	},
+	"businessId": 3220514,
+	"geocodedCoordinate": {
+		"latitude": 40.7366723,
+		"longitude": -73.98776629999999
+	},
+	"id": "store-1",
+	"key": "0:local-store:knowledgeGraph:1003492487:en",
+	"locale": "en",
+	"mainPhone": "+18005551234",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Sunshine Flower Boutique - Union Square",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 1562,
+				"url": "https://a.mktgcdn.com/p/n7nX9ABxU3St746fgMuMoxsCn8Hgr8yn7xBV_wjCq4Q/2340x1562.jpg",
+				"width": 2340
+			}
+		}
+	],
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "union-square",
+	"uid": 1003492487
+}

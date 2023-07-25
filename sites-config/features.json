@@ -1,20 +1,65 @@
 {
   "features": [
     {
-      "name": "product",
-      "streamId": "skis",
+      "name": "category",
+      "templateType": "JS",
+      "staticPage": {
+        "plugin": {}
+      }
+    },
+    {
+      "name": "local-store",
+      "streamId": "locations",
       "templateType": "JS",
       "entityPageSet": {
+        "plugin": {}
+      }
+    },
+    {
+      "name": "product",
+      "streamId": "products",
+      "templateType": "JS",
+      "entityPageSet": {
+        "plugin": {}
+      }
+    },
+    {
+      "name": "homepage",
+      "templateType": "JS",
+      "staticPage": {
         "plugin": {}
       }
     }
   ],
   "streams": [
     {
-      "$id": "skis",
+      "$id": "locations",
+      "localization": {
+        "locales": [
+          "en"
+        ],
+        "primary": false
+      },
       "filter": {
         "entityTypes": [
-          "ce_product"
+          "location"
+        ]
+      },
+      "fields": [
+        "name",
+        "description",
+        "slug",
+        "photoGallery",
+        "address",
+        "mainPhone",
+        "geocodedCoordinate"
+      ]
+    },
+    {
+      "$id": "products",
+      "filter": {
+        "entityTypes": [
+          "product"
         ]
       },
       "localization": {
@@ -24,11 +69,13 @@
         "primary": false
       },
       "fields": [
+        "id",
         "name",
-        "c_price",
-        "description",
+        "slug",
+        "price",
+        "primaryPhoto",
         "photoGallery",
-        "slug"
+        "richTextDescription"
       ]
     }
   ]

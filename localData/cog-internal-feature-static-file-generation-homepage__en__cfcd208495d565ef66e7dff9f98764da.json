@@ -1,0 +1,18 @@
+{
+	"__": {
+		"name": "homepage",
+		"staticPage": {
+			"plugin": {}
+		},
+		"templateType": "JS"
+	},
+	"businessId": 3220514,
+	"key": "0:homepage:knowledgeGraph:0:en",
+	"locale": "en",
+	"meta": {
+		"locale": "en"
+	},
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": ""
+}

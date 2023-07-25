@@ -12,10 +12,7 @@ const Cta = (props: CtaProps) => {
   return (
     <a
       href={url}
-      className={twMerge(
-        " py-4 px-6 text-base font-bold text-white rounded-lg",
-        style
-      )}
+      className={twMerge("text-base font-bold text-white rounded-lg", style)}
       target="_blank"
       rel="noopener noreferrer"
     >

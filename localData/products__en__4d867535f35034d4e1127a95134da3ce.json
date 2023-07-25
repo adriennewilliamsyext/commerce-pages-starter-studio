@@ -1,0 +1,55 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "products",
+		"templateType": "JS"
+	},
+	"businessId": 3220514,
+	"id": "roses-red-dozen",
+	"key": "0:product:knowledgeGraph:1003492453:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "product",
+			"uid": 30000
+		},
+		"locale": "en"
+	},
+	"name": "Rose Bouquet - Red 1 Dozen",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 1200,
+				"url": "https://a.mktgcdn.com/p/UVn-Zkh2gH_1BasRb3xV6_8vrbLRp7p4eGHiGFj4qjs/800x1200.jpg",
+				"width": 800
+			}
+		},
+		{
+			"image": {
+				"height": 533,
+				"url": "https://a.mktgcdn.com/p/iT_sZs38d9vutN0rl7L25SBgdzfKi7KI-vI0mc9QutY/800x533.jpg",
+				"width": 800
+			}
+		}
+	],
+	"price": {
+		"currencyCode": "USD",
+		"value": "27"
+	},
+	"primaryPhoto": {
+		"image": {
+			"height": 745,
+			"url": "https://a.mktgcdn.com/p/w9I6mq5GMKMHoS1bMqHN6plxrKi2QvdCf2tqNDrlL4U/745x745.jpg",
+			"width": 745
+		}
+	},
+	"richTextDescription": "Introducing our captivating \"Scarlet Passion\" bouquet, a mesmerizing arrangement of twelve crimson red roses that embodies the essence of love and romance. Carefully hand\\-picked from the finest blooms, each rose exudes elegance and beauty, making this bouquet a timeless symbol of affection and adoration.\n\n\nThe \"Scarlet Passion\" bouquet is expertly crafted by our skilled florists, ensuring that each rose is positioned to perfection, showcasing their velvety petals and alluring fragrance. Wrapped in a charming, eco\\-friendly packaging and finished with a satin ribbon, this bouquet is not just a gift; it's an exquisite expression of love that will leave a lasting impression on your recipient's heart.\n\n\nGraceful and passionate, the \"Scarlet Passion\" bouquet is an ideal gesture for anniversaries, Valentine's Day, or any occasion where love is to be celebrated. Let the language of flowers speak for you, as the vibrant red roses convey feelings of deep affection and a promise of everlasting devotion. Embrace the magic of love with this breathtaking bouquet that captures the essence of romance and leaves a lasting impression on your loved one.",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "roses-red-dozen",
+	"uid": 1003492453
+}

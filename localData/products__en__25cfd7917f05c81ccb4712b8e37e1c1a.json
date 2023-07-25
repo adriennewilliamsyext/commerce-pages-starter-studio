@@ -1,0 +1,62 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "product",
+		"streamId": "products",
+		"templateType": "JS"
+	},
+	"businessId": 3220514,
+	"id": "wedding-generic-white",
+	"key": "0:product:knowledgeGraph:1003492452:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "product",
+			"uid": 30000
+		},
+		"locale": "en"
+	},
+	"name": "White Wedding Bouquet",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 1421,
+				"url": "https://a.mktgcdn.com/p/nDzXCJlZoEd4UrGKbHxqv6TU8Hkn3Y_YTIvIYFwK7aE/1015x1421.jpg",
+				"width": 1015
+			}
+		},
+		{
+			"image": {
+				"height": 533,
+				"url": "https://a.mktgcdn.com/p/KA6ArdUfpw0fhnu2DL-LE6dWJn3WqWPoJ5Pwp7XIbeY/800x533.jpg",
+				"width": 800
+			}
+		},
+		{
+			"image": {
+				"height": 1200,
+				"url": "https://a.mktgcdn.com/p/xjBpnnB0cn6sAR8otj79LomS05FP23xmWictu1zsO-4/800x1200.jpg",
+				"width": 800
+			}
+		}
+	],
+	"price": {
+		"currencyCode": "USD",
+		"value": "529.99"
+	},
+	"primaryPhoto": {
+		"image": {
+			"height": 800,
+			"url": "https://a.mktgcdn.com/p/l78ErCTIwVnPMz5zDG--Kp-yd-PeNEOxCtH1zoINg7M/800x800.jpg",
+			"width": 800
+		}
+	},
+	"richTextDescription": "Presenting our ethereal \"Pure Love\" wedding flower bouquet, a mesmerizing arrangement of pristine white blooms that epitomizes the essence of love, purity, and new beginnings. Each flower in this exquisite bouquet has been hand\\-picked to radiate elegance and grace, creating a harmonious symphony of ivory hues that symbolize the purity of the union. Crafted with meticulous attention to detail, the \"Pure Love\" bouquet is the perfect companion for a bride as she walks down the aisle, exuding a sense of timeless beauty and sophistication.\n\n\nCarefully curated by our expert florists, the \"Pure Love\" wedding flower bouquet is a timeless expression of love and commitment. The delicate fragrance of the white blossoms enhances the romantic atmosphere, filling the air with a sense of serenity and joy. From intimate gatherings to grand celebrations, the \"Pure Love\" bouquet serves as a stunning centerpiece, capturing the hearts of all in attendance and leaving a lasting impression on this most memorable day. Let the \"Pure Love\" bouquet be a symbol of the unending love that binds two souls, promising a future filled with happiness, purity, and a love that knows no bounds.",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "wedding-generic-white",
+	"uid": 1003492452
+}
