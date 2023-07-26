@@ -8,6 +8,9 @@
 		"templateType": "JS"
 	},
 	"businessId": 3220514,
+	"commerce_productDescription": {
+		"markdown": "\nPresenting our ethereal \"Pure Love\" wedding flower bouquet, a mesmerizing arrangement of pristine white blooms that epitomizes the essence of love, purity, and new beginnings. Each flower in this exquisite bouquet has been hand-picked to radiate elegance and grace, creating a harmonious symphony of ivory hues that symbolize the purity of the union. Crafted with meticulous attention to detail, the \"Pure Love\" bouquet is the perfect companion for a bride as she walks down the aisle, exuding a sense of timeless beauty and sophistication.\n\nCarefully curated by our expert florists, the \"Pure Love\" wedding flower bouquet is a timeless expression of love and commitment. The delicate fragrance of the white blossoms enhances the romantic atmosphere, filling the air with a sense of serenity and joy. From intimate gatherings to grand celebrations, the \"Pure Love\" bouquet serves as a stunning centerpiece, capturing the hearts of all in attendance and leaving a lasting impression on this most memorable day. Let the \"Pure Love\" bouquet be a symbol of the unending love that binds two souls, promising a future filled with happiness, purity, and a love that knows no bounds."
+	},
 	"id": "wedding-generic-white",
 	"key": "0:product:knowledgeGraph:1003492452:en",
 	"locale": "en",

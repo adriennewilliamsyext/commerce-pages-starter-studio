@@ -8,6 +8,9 @@
 		"templateType": "JS"
 	},
 	"businessId": 3220514,
+	"commerce_productDescription": {
+		"markdown": "Introducing our \"Harmony Blooms and Candle\" bundle, a delightful combination that combines the beauty of fresh flowers with the soothing ambiance of a scented candle. Embrace the harmony of nature and tranquility as this enchanting bouquet of vibrant blooms breathes life into any space, while the elegantly scented candle infuses the surroundings with a calming and inviting fragrance.\n\nThe flower bouquet, meticulously handcrafted by our skilled florists, features a delightful mix of seasonal blooms in an array of enchanting colors. The carefully selected flowers come together to create a stunning arrangement that brightens up any room and brings a touch of nature's beauty indoors. Accompanied by the scented candle, carefully crafted from premium wax and infused with a delightful fragrance, the \"Harmony Blooms and Candle\" bundle is a gift that brings a sense of calm and serenity to any moment.\n\nWhether you're seeking a thoughtful gesture for a loved one or a treat for yourself, the \"Harmony Blooms and Candle\" bundle is the perfect choice. It makes a charming centerpiece for a romantic dinner, a relaxing addition to a spa day, or a delightful surprise for any occasion. Embrace the harmonious blend of nature's wonders and the soothing aura of a scented candle with this unique bundle, and create moments of blissful tranquility that will be cherished for years to come."
+	},
 	"id": "flowers-candle-gift",
 	"key": "0:product:knowledgeGraph:1003492451:en",
 	"locale": "en",

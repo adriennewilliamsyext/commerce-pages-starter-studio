@@ -1,4 +1,5 @@
-import { Markdown } from "@yext/react-components";
+import { ReactMarkdown } from "react-markdown/lib/react-markdown";
+import { LexicalRichText } from "@yext/react-components";
 
 export interface ItemProps {
   name?: string;
@@ -29,7 +30,7 @@ const Item = ({ name, image, description }: ItemProps) => {
           </a>
         </h3>
         <p className="mt-1 text-sm text-gray-500 whitespace-pre-line">
-          <Markdown content={`${description}`} />
+          <LexicalRichText serializedAST={`${description}`} />
         </p>
       </div>
     </li>

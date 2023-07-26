@@ -8,6 +8,9 @@
 		"templateType": "JS"
 	},
 	"businessId": 3220514,
+	"commerce_productDescription": {
+		"markdown": "Introducing our captivating \"Scarlet Passion\" bouquet, a mesmerizing arrangement of twelve crimson red roses that embodies the essence of love and romance. Carefully hand-picked from the finest blooms, each rose exudes elegance and beauty, making this bouquet a timeless symbol of affection and adoration.\n\nThe \"Scarlet Passion\" bouquet is expertly crafted by our skilled florists, ensuring that each rose is positioned to perfection, showcasing their velvety petals and alluring fragrance. Wrapped in a charming, eco-friendly packaging and finished with a satin ribbon, this bouquet is not just a gift; it's an exquisite expression of love that will leave a lasting impression on your recipient's heart.\n\nGraceful and passionate, the \"Scarlet Passion\" bouquet is an ideal gesture for anniversaries, Valentine's Day, or any occasion where love is to be celebrated. Let the language of flowers speak for you, as the vibrant red roses convey feelings of deep affection and a promise of everlasting devotion. Embrace the magic of love with this breathtaking bouquet that captures the essence of romance and leaves a lasting impression on your loved one."
+	},
 	"id": "roses-red-dozen",
 	"key": "0:product:knowledgeGraph:1003492453:en",
 	"locale": "en",

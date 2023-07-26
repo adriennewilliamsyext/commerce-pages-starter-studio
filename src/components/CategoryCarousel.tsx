@@ -31,7 +31,6 @@ const CategoryCarousel = () => {
               <Item
                 name={category.name}
                 image={category.primaryPhoto.image.url}
-                description={category.shortDescription}
               />
             );
           })}

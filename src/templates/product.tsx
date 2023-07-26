@@ -13,6 +13,8 @@ import ProductImage from "../components/ProductImage";
 import VerticalStack from "../components/VerticalStack";
 import "../index.css";
 import BigButton from "../components/BigButton";
+import { ReactMarkdown } from "react-markdown/lib/react-markdown";
+import ReactDom from "react-dom";
 
 export const config: TemplateConfig = {
   stream: {
@@ -27,6 +29,7 @@ export const config: TemplateConfig = {
       "primaryPhoto",
       "photoGallery",
       "richTextDescription",
+      "commerce_productDescription",
     ],
   },
 };
@@ -70,7 +73,7 @@ export default function Product({ __meta, document }: TemplateProps) {
                   <Label value={`$${document.price.value}`} />
                 </HorizontalStack>
                 <Paragraph
-                  value={`${document.richTextDescription}`}
+                  value={`${document.commerce_productDescription.markdown}`}
                   fontWeight="light"
                   textSize="base"
                 />

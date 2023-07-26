@@ -8,6 +8,9 @@
 		"templateType": "JS"
 	},
 	"businessId": 3220514,
+	"commerce_productDescription": {
+		"markdown": "Introducing our enchanting \"Pink Starbust\" bouquet, a delightful arrangement of unique pink flowers that exudes grace, charm, and a touch of whimsy. Hand-selected for their one-of-a-kind beauty, each bloom showcases a variety of delicate pink hues, creating a harmonious and captivating display. The \"Pink Serenity\" bouquet is a celebration of individuality, offering a refreshing departure from traditional arrangements, making it a perfect gift for those who appreciate the extraordinary.\n\nCrafted with an artistic flair by our skilled floral designers, the \"Pink Starbrurst\" bouquet is a true masterpiece that will leave recipients in awe. The assortment of rare pink flowers combines elegance and playfulness, making it an ideal choice for birthdays, celebrations, or simply to brighten someone's day with a unique touch. Let the \"Pink Serenity\" bouquet inspire a sense of tranquility and wonder, as each flower whispers a tale of its own, weaving together a captivating story of beauty and charm.\n\nEmbrace the allure of the unconventional and bask in the splendor of the \"Pink Starburst\" bouquet. With its exquisite blend of distinctive pink blooms, this enchanting arrangement promises to be a delightful surprise, spreading joy and warmth wherever it goes. Celebrate the extraordinary with the \"Pink Serenity\" bouquet and let its distinctive beauty leave an everlasting impression on your loved ones."
+	},
 	"id": "pink-starbust-boquet",
 	"key": "0:product:knowledgeGraph:1003492455:en",
 	"locale": "en",

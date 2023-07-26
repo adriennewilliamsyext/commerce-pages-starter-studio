@@ -31,7 +31,7 @@ const PromotionsCarousel = () => {
               <Item
                 name={promotions.name}
                 image={promotions.primaryPhoto.image.url}
-                description={promotions.shortDescription}
+                description={JSON.stringify(promotions.shortDescriptionV2.json)}
               />
             );
           })}

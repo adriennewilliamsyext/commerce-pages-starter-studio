@@ -35,15 +35,11 @@
     {
       "$id": "locations",
       "localization": {
-        "locales": [
-          "en"
-        ],
+        "locales": ["en"],
         "primary": false
       },
       "filter": {
-        "entityTypes": [
-          "location"
-        ]
+        "entityTypes": ["location"]
       },
       "fields": [
         "name",
@@ -58,14 +54,10 @@
     {
       "$id": "products",
       "filter": {
-        "entityTypes": [
-          "product"
-        ]
+        "entityTypes": ["product"]
       },
       "localization": {
-        "locales": [
-          "en"
-        ],
+        "locales": ["en"],
         "primary": false
       },
       "fields": [
@@ -75,7 +67,8 @@
         "price",
         "primaryPhoto",
         "photoGallery",
-        "richTextDescription"
+        "richTextDescription",
+        "commerce_productDescription"
       ]
     }
   ]

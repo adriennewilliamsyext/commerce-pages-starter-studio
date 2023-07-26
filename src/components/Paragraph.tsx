@@ -1,5 +1,4 @@
-import { Markdown } from "@yext/react-components";
-
+import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 export interface ParagraphProps {
   value: string;
   textSize?: "xs" | "sm" | "base" | "lg" | "xl" | "2xl";
@@ -28,7 +27,7 @@ const Paragraph = ({ value, textSize, fontWeight }: ParagraphProps) => {
         <p
           className={`text-${textSize} font-${fontWeight} text-black whitespace-pre-line`}
         >
-          <Markdown content={value} />
+          <ReactMarkdown>{value}</ReactMarkdown>
         </p>
       </div>
     </section>
