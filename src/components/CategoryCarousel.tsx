@@ -26,9 +26,10 @@ const CategoryCarousel = () => {
     <div>
       <ThreeColGrid title="Shop Categories">
         {categoryData &&
-          categoryData.map((category) => {
+          categoryData.map((category, index) => {
             return (
               <Item
+                key={index}
                 name={category.name}
                 image={category.primaryPhoto.image.url}
               />

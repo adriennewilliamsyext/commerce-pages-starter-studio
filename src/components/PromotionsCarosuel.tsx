@@ -26,12 +26,13 @@ const PromotionsCarousel = () => {
     <div>
       <OneColGrid title="Promotions">
         {promotionsData &&
-          promotionsData.map((promotions) => {
+          promotionsData.map((promotions, index) => {
             return (
               <Item
+                key={index}
                 name={promotions.name}
                 image={promotions.primaryPhoto.image.url}
-                description={JSON.stringify(promotions.shortDescriptionV2.json)}
+                // description={JSON.stringify(promotions.shortDescriptionV2.json)}
               />
             );
           })}
