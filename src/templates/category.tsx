@@ -64,12 +64,13 @@ export default function Product({ __meta, document }: TemplateProps) {
             >
               <ThreeColGrid title="Shop by Category">
                 {categoryData &&
-                  categoryData.map((category) => {
+                  categoryData.map((category, index) => {
                     return (
                       <Item
+                        key={index}
                         name={category.name}
                         image={category.primaryPhoto.image.url}
-                        description={category.shortDescription}
+                        description={category.shortDescriptionV2}
                       />
                     );
                   })}
