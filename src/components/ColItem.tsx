@@ -30,7 +30,6 @@ const Item = ({ name, image, description }: ItemProps) => {
           </a>
         </h3>
         <p className="mt-1 text-sm text-gray-500 whitespace-pre-line">
-          {/* <LexicalRichText serializedAST={`${description}`} /> */}
         </p>
       </div>
     </li>
