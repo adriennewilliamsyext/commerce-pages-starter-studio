@@ -28,7 +28,6 @@ export const config: TemplateConfig = {
       "price",
       "primaryPhoto",
       "photoGallery",
-      "richTextDescription",
       "commerce_productDescription",
     ],
   },
